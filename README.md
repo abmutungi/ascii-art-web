@@ -4,9 +4,9 @@ This is a website that converts any string that is entered into ascii art and di
 
 Ascii Art is a program that consists of receiving a string as an argument and outputting the string in a graphic representation using ascii characters.
 
-## Author:
+## Authors:
 
-[Arnold Mutungi](https://git.learn.01founders.co/abmutungi)
+[Arnold Mutungi](https://git.learn.01founders.co/abmutungi) & [Yonas Million](https://git.learn.01founders.co/nsym_coding)
 
 ## Usage:
 
@@ -41,4 +41,3 @@ See in gif below how to turn any given string of text into ascii art
 -The banner file that has been opened is then put into a map with every character in the ascii mapped to it's ascii value which means that each character in the string can be matched to it's corresponding ascii.
 
 - Once they're matched they are looped through, line by line and character by character before being appended to a empty slice that is then converted to a string before being sent back to the client and displayed on the webpage.
-
